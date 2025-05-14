@@ -7,6 +7,7 @@ TinyCommands adds a handful of small slash commands, [much as the name would sug
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/anya-hichu/TinyCommands/master?label=updated)
 [![GitHub issues](https://img.shields.io/github/issues-raw/anya-hichu/TinyCommands?label=known%20issues)](https://github.com/anya-hichu/TinyCommands/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
+## Original Author
 [![Support original author!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V7IK9UU)
 
 ## Installation
