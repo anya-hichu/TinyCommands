@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Dalamud.NET.Sdk/12.0.2">
 	<PropertyGroup>
 		<Product>TinyCmds</Product>
-		<Version>8.9.2</Version>
 		<Description>This plugin adds tiny and simple but useful chat commands, and nothing more. It finally has a UI specifically for command help.</Description>
 		<PackageProjectUrl>https://github.com/VariableVixen/TinyCommands</PackageProjectUrl>
 		<Copyright>Copyleft VariableVixen 2021</Copyright>
+		<IsPackable>false</IsPackable>
+		<TargetFramework>net9.0-windows7.0</TargetFramework>
 	</PropertyGroup>
-
-	<Import Project="dalamud.props" />
 
 	<ItemGroup>
 		<PackageReference Include="XivCommon" Version="9.0.0" />
