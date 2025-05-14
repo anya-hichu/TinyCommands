@@ -1,7 +1,7 @@
 {
   "Name": "TinyCommands",
-  "Author": "VariableVixen",
+  "Author": "VariableVixen, Anya Hichu",
   "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
-  "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
+  "RepoUrl": "https://github.com/anya-hichu/TinyCommands",
   "Punchline": "Tiny, GUI-less convenience commands designed to make macros more powerful"
 }
