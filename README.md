@@ -1,4 +1,4 @@
-# TinyCommands
+# Fork of TinyCommands
 
 TinyCommands adds a handful of small slash commands, [much as the name would suggest](https://tvtropes.org/pmwiki/pmwiki.php/Main/ExactlywhatItSaysOnTheTin). These commands can be used from the chatbox directly, or from macros, or with other plugins, but the ""intended"" usage is primarily from within macros.
 
